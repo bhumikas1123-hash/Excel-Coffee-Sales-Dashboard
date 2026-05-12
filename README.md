@@ -18,6 +18,7 @@ The goal of this project is to help understand:
 
 <img width="1859" height="731" alt="image" src="https://github.com/user-attachments/assets/329b5806-d7fd-4706-a1ec-c5a8ee67889e" />
 
+Video Link: https://drive.google.com/file/d/15VC9qRoQ-Qk8T-23Xlk8U-0Hq5_zz7DO/view?usp=drive_link
 
 ---
 
